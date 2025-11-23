@@ -1,2 +1,2 @@
 # Python-Pentools
-A collection of simple penetration testing tools made with Python. These tools are directly from the Free Code Camp Information Security course.
+A collection of simple penetration testing tools made using Python. These tools were made to complete the [freeCodeCamp Information Security course](https://www.freecodecamp.org/learn/information-security).
